@@ -8,7 +8,7 @@ function App() {
   return (
     
     <div className="App">
-      <h1>Auth0 Login</h1>
+      <h1>Social Publishing Platform Login</h1>
       <LoginButton />
       <LogoutButton />
       <RichTextEditor />
